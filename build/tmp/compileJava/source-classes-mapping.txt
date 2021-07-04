@@ -1,0 +1,15 @@
+org/doublem/service/HelloWorldService.java
+ org.doublem.service.HelloWorldService
+org/doublem/model/Juice.java
+ org.doublem.model.Juice
+ org.doublem.model.Juice$JuiceBuilder
+org/doublem/SpringBootApp.java
+ org.doublem.SpringBootApp
+org/doublem/service/MangoInterface.java
+ org.doublem.service.MangoInterface
+org/doublem/model/HelloWorldDto.java
+ org.doublem.model.HelloWorldDto
+org/doublem/service/ApiComposer.java
+ org.doublem.service.ApiComposer
+org/doublem/controller/HelloWorldController.java
+ org.doublem.controller.HelloWorldController
